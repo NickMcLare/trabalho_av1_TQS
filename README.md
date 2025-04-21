@@ -1,3 +1,4 @@
+
 ---
 
 # Atividade de Teste de Qualidade – Venda de Bilhetes
@@ -86,4 +87,10 @@ teste_qualidade/
 ├── readme.md               # Este documento
 └── .gitignore
 ```
+
 ---
+
+## 👥 Autores
+
+- **Fernando Gabriel Barbosa Dias** – Matrícula: 202310310311  
+- **Nicholas Santana de Sousa** – Matrícula: 202310311011

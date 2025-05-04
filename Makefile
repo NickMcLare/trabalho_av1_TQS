@@ -15,7 +15,11 @@ build: $(SRC) $(TEST)
 run: build
 	./$(OUTPUT)
 
+test: build
+	@echo "Running tests..."
+	@./$(OUTPUT)
+
 clean:
 	rm -rf output
 
-.PHONY: all dirs build run clean
+.PHONY: all dirs build run test clean
